@@ -1129,3 +1129,10 @@
         text-decoration: none;
         color: #fff;
     }
+
+    .our-story{
+        height: 400px;
+        width: 800px;
+        padding: 30%;
+        text-align: center;
+    }
