@@ -1131,8 +1131,25 @@
     }
 
     .our-story{
-        height: 400px;
-        width: 800px;
-        padding: 30%;
+        height: 700px;
+        width: 80%;
         text-align: center;
+        padding: 20px;
+        margin: auto;
+
+    }
+
+    #our-story1{
+        float: left;
+        padding: 20px;
+        width: 30%;
+    }
+
+    #our-story2{
+        float: right;
+        padding: 20px;
+        padding-top: 60px;
+        width: 50%;
+        text-align: justify;
+        font-size: 20px;
     }
