@@ -77,7 +77,7 @@
                    For mountain flights, you're allowed 5 kg. for carry-on and 10 kg. for checked-in luggage. For non-mountain sector flights, the check-in allowance increases to 20-25 kg
                 </div>
             </div>
-        </div>
+        </div><br><br>
 
        
     </div>
