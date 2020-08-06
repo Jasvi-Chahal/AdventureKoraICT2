@@ -606,40 +606,15 @@
     /*-------contactUs---------*/
     /*contact us page*/
     
-    .contact {
-        text-align: center;
-        margin: 10px;
-        padding: 10px;
-    }
+   .contact-us card{
+	  
+	background-color:#e3e0dc;
+    padding-left: 27px;
+    margin-left: -20px;
+    margin-top: 10px;
+}
     
-    .contact .text {
-        margin: 40px;
-        font-size: 20px;
-        font-family: 'Times New Roman', Times, serif;
-    }
-    
-    .contact .contact-form {
-        margin: auto;
-    }
-    
-    .contact .contact-form label {
-        font-family: 'Times New Roman', Times, serif;
-        font-size: 20px;
-    }
-    
-    .contact .contact-form input,
-    .contact .contact-form textarea {
-        width: 50%;
-        height: 50px;
-        border: 1px solid black;
-        background: none;
-        outline: none;
-        font-size: 16px;
-        margin-top: 5px;
-        border-radius: 10px;
-    }
-    
-    .contact .button {
+    .contact-us .btn {
         display: inline-block;
         background-color: #484B4F;
         padding: 14px;
@@ -725,9 +700,7 @@
 		padding: 10%;
 		
 	}
-	.enquire-form hr{
-		border: 1px solid #e0deda;
-	}
+	.enquire
     /*******************Blog section***********************/
     
     .blog-container {
@@ -815,3 +788,16 @@
         text-align: justify;
         font-size: 20px;
     }
+.map-container-6{
+overflow:hidden;
+padding-bottom:56.25%;
+position:relative;
+height:0;
+}
+.map-container-6 iframe{
+left:0;
+top:0;
+height:100%;
+width:100%;
+position:absolute;
+}
