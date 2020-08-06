@@ -91,7 +91,7 @@
 						</div>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="TailorMadeEnquiry.php">Tailor Made</a>
+					<a class="nav-link" href="TailorMade.php">Tailor Made</a>
 				</li>
 				<li class="nav-item dropdown">
 					<a class="nav-link dropdown-toggle" href="EnquiryTailorMade.php" id="navbardrop" data-toggle="dropdown"> Plan A Trip </a>
