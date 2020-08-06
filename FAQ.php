@@ -82,7 +82,7 @@
        
     </div>
 
- 
+ </div>
             <!-- Footer Start -->
 	<?php 
     include('HeaderFooter/footer.php'); 
