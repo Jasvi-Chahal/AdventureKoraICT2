@@ -827,6 +827,33 @@ height:100%;
 width:100%;
 position:absolute;
 }
+<<<<<<< HEAD
+
+
+#team1{
+    float: left;
+    width: 30%;
+    height: 50px;
+    padding-top: 20px;
+    margin-left: 100px;
+    text-align: justify;
+
+
+}
+
+
+#team2{
+    float: right;
+    width: 30%;
+    height: 50px;
+    padding-top: 20px;
+    margin-right: 100px;
+    text-align: justify;
+
+
+}
+
+=======
 /**********CSS for FAQs****************/
      .faqHeader {
         font-size: 27px;
@@ -857,3 +884,4 @@ position:absolute;
         transform: rotate(90deg);
         color: #454444;
     }
+>>>>>>> 2d79c05f7ca7e1822f30822a5a3cce9f4f0fc4d2
