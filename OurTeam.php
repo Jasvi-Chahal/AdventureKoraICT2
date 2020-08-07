@@ -28,13 +28,13 @@
       <h1> Adventure Kora - Our Team</h1>
 
       <section id="team1">
-        <img src="images\team1.jpg"> 
+        <img src="images/team1.jpg"> 
         <p> <br/> Experience adventure with mindfulness traveling with mindfulness gives an enriching experience. You start appreciating a culture, a place, and its people from a different light. </p>
 
       </section>
 
       <section id="team2">
-        <img src="images\team2.jpg">
+        <img src="images/team2.jpg">
         <p><br/>Adventure Kora is a local travel company based in Nepal that specializes in small groups, bespoke packages, combining them with the idea of wellness. We believe in creating the best travel experience for our clients, their safety being the main priority. </p>
 
         
