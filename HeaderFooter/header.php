@@ -112,9 +112,9 @@
                     <a class="nav-link" href="ContactUs.php">Contact Us</a>
                 </li>
 				<div class="search-container">
-                   <form action="/action_page.php">
+                   <form action="action_page.php" method="POST">
                        <input type="text" placeholder="Search" name="search">
-                       <button type="submit"><i class="fa fa-search"></i></button>
+                       <button type="submit" name="submit-search"><i class="fa fa-search"></i></button>
                     </form>
                 </div>
             </ul>
