@@ -444,7 +444,7 @@
                                     </div>
 								</div>
 								<div class="text-center text-md-left" style="padding:35px 40px">
-								<a><button type="button" class="btn btn-primary btn-block btn-rounded" onclick="">Submit Enquiry</button></a>
+								<a><button type="button" class="btn btn-warning btn-block btn-rounded" onclick="">Submit Enquiry</button></a>
 							</div>
 
 				</div>

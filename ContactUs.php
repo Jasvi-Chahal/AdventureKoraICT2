@@ -107,7 +107,7 @@
 
 
             <div class="text-center text-md-left" style="padding-left:35px">
-               <a><button type="button" class="btn btn-primary" onclick="document.getElementById('contact-form').submit();">Send</button></a>
+               <a><button type="button" class="btn btn-warning" onclick="document.getElementById('contact-form').submit();">Send</button></a>
             </div>
             <div class="status"></div>
         </div>
