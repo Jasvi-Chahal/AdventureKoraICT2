@@ -21,22 +21,23 @@
   <body>
    <!-- header: logo and navigation-menu -->
    <?php 
-    include('HeaderFooter/header.php');
-    include('db_conn.php'); 
+    include('HeaderFooter/header.php'); 
     ?>
     <!-- end header -->
     <div class="our-story">
-      <h1> Adventure Kora - Our Story</h1>
+      <h1> Adventure Kora - All articles</h1>
+      
 
-      <section id="our-story1">
-        <img src="images\story.jpg">
+      <section id="team1">
+        <img src="images\team1.jpg"> 
+        <p> <br/> Experience adventure with mindfulness traveling with mindfulness gives an enriching experience. You start appreciating a culture, a place, and its people from a different light. </p>
 
       </section>
 
-      <section id="our-story2">
-        <p>Adventure Kora is a local travel company based in Nepal that specializes in small groups, bespoke packages, combining them with the idea of wellness. We believe in creating the best travel experience for our clients, their safety being the main priority. </p>
+      <section id="team2">
+        <img src="images\team2.jpg">
+        <p><br/>Adventure Kora is a local travel company based in Nepal that specializes in small groups, bespoke packages, combining them with the idea of wellness. We believe in creating the best travel experience for our clients, their safety being the main priority. </p>
 
-        <p>Experience adventure with mindfulness traveling with mindfulness gives an enriching experience. You start appreciating a culture, a place, and its people from a different light. This is one of the reasons why we promote the idea of adventure with wellness. Designing bespoke travel plans means you’ll get to travel at your own pace, experience new culture and all it has to offer.</p>
         
       </section>
       
