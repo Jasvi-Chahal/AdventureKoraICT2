@@ -853,7 +853,12 @@ position:absolute;
 
 }
 
-=======
+/***********CSS for adventure Sports**********/
+.adventure_sports h2,h3 {
+    font-size: 40px;
+    font-style: bold;
+
+}
 /**********CSS for FAQs****************/
      .faqHeader {
         font-size: 27px;
