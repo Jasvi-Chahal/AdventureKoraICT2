@@ -24,8 +24,87 @@
     include('HeaderFooter/header.php'); 
     ?>
     <!-- end header -->
- <!-- Top content -->
- <img src="images/under.jpg" alt="page under construction">
+ <div class="trekking">
+    <div class="container">
+      <img src="images/peakclimbing.jpg" alt="Notebook" style="width:1150px; height:500px">
+    <div class="content">
+      <h1>PEAK CLIMBING</h1>
+      <p>Mountaineering in Nepal is the most challenging and rewarding adventure in Nepal and in the world. 
+      Our Expedition and Peak Climbing trips take you to Nepal's Himalayan mountains,
+      recognized to be the highest mountains on the planet, including the mighty Mount Everest (8848 m), 
+      fulfilling every mountaineer's dream.</p>
+    </div>
+    </div>
+    <hr>
+  </div>  
+<div class="peakclimbing">
+  <div class="container">
+      <a class="weatherwidget-io" href="https://forecast7.com/en/27d7285d32/kathmandu/" 
+      data-label_1="KATHMANDU" data-label_2="WEATHER" data-font="Times New Roman" data-icons="Climacons Animated" 
+      data-days="3" data-theme="dark" >KATHMANDU WEATHER</a>
+    <hr>
+  <div class="row">
+    <div class="col-sm-4">
+        <div class="card">
+          <div class="image">
+            <img src="images/img/package1.jpg" alt="Package 1" width="100%" height="180px" >
+          </div>
+          <div class="card-inner">
+            <div class="header">
+              
+              <h5 style="margin-left: 10px; margin-top:10px"> Everest Base Camp Via Kongma la</h5>
+            </div>
+          <div class="content">
+            <p><i class="fas fa-calendar-day"></i> 14 Days</p>
+          </div>
+          <a href="Trekking.php"><button type="button" class="btn">Book Now</button></a>
+        </div>
+      </div>
+    </div>
+    
+    <div class="col-sm-4">
+      <div class="card">
+        <div class="image">
+          <img src="images/img/package3.jpg" alt="Package 3" width="100%" height="180px"> 
+        </div>
+      <div class="card-inner">
+      <div class="header">
+        <h5>Everest Base Camp</h5>
+      </div>
+      <div class="content">
+        <p><i class="fas fa-calendar-day"></i> 12 Days</p>
+      </div>
+        <a href="Trekking.php"><button type="button" class="btn">Book Now</button></a>
+      </div>
+    </div>
+    </div>
+    <div class="col-sm-4">
+  <div class="card">
+    <div class="image">
+      <img src="images/img/package6.jpg" alt="Package 6" width="100%" height="180px">
+    </div>
+    <div class="card-inner">
+      <div class="header">
+    <h5>Gokyo Lake with Renjo La</h5>
+    </div>
+    <div class="content">
+     <p><i class="fas fa-calendar-day"></i> 12 Days</p>
+    </div>
+  <a href="Trekking.php"><button type="button" class="btn">Book Now</button></a>
+      </div>
+  </div>
+</div>
+    </div>
+  </div>
+</div>
+ 
+ 
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];
+if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';
+fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script>
+ 
  
             <!-- Footer Start -->
 	<?php 
