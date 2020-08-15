@@ -280,7 +280,7 @@
 <div class="videoSection">
 	<div class="videoTextcontainer">
 		<h4>Find your adventure in Nepal</h4><br><br>
-		<a href="Trekking.php"><button type="button" class="btn">Find your Trip</button></a>	
+		<a href="TailorMade.php"><button type="button" class="btn">Find your Trip</button></a>	
 	</div>
 	<div class= "iframe-container">
 	<iframe width="600px" height="355px" src="https://www.youtube.com/embed/Fty1UQamzvg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
