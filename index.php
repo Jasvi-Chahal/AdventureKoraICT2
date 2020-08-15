@@ -344,11 +344,6 @@
     include('HeaderFooter/footer.php'); 
     ?>
     <!-- Footer End -->
-    <script type="text/javascript">
-    	$(document).ready(function() 
-    	{
-       $(".dropdown-toggle").dropdown();
-        });
-    </script>
+   
   </body>
 </html>

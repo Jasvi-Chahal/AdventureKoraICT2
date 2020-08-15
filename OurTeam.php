@@ -24,23 +24,57 @@
     include('HeaderFooter/header.php'); 
     ?>
     <!-- end header -->
-    <div class="our-story">
-      <h1> Adventure Kora - Our Team</h1>
+   <div class="team">
+    <div class="container">
+    <div class="row">
+    <h3 style="padding-top: 60px;padding-left: 500px">Our Team</h3>
+    
+    </div><hr>
+        <div class="row">
+        <div class="col-sm-4">
+          <div class="card">
+            <img src="images/team1.png" alt="Abhimanyu" style="width:100%">
+            <div class="container">
+            <h2>Abhimanyu</h2>
+            <p class="title">Co-Founder, Managing Director</p>
+            <p>Being a passionate traveler and photography anthusiast
+            he has best adventures ideas you can experiance in Nepal.</p>
+            
+            <p><button class="button">Contact</button></p>
+          </div>
+        </div>
+        </div>
 
-      <section id="team1">
-        <img src="images/team1.jpg"> 
-        <p> <br/> Experience adventure with mindfulness traveling with mindfulness gives an enriching experience. You start appreciating a culture, a place, and its people from a different light. </p>
-
-      </section>
-
-      <section id="team2">
-        <img src="images/team2.jpg">
-        <p><br/>Adventure Kora is a local travel company based in Nepal that specializes in small groups, bespoke packages, combining them with the idea of wellness. We believe in creating the best travel experience for our clients, their safety being the main priority. </p>
-
-        
-      </section>
-      
+  <div class="col-sm-4">
+    <div class="card">
+      <img src="images/team2.jpg" alt="Nischal" style="width:100%">
+      <div class="container">
+        <h2>Nischal</h2>
+        <p class="title">Co-Founder and Digital marketting specialist</p>
+        <p>He build team with the aim of connecting people
+    around the world with Himalayas for the unique experience
+    that it has offer.<br></p>
+        <p><button class="button">Contact</button></p>
+      </div>
     </div>
+  </div>
+  
+  <div class="col-sm-4">
+    <div class="card">
+      <img src="images/team3.jpg" alt="Astha" style="width:100%">
+      <div class="container">
+        <h2>Astha</h2>
+        <p class="title">Co-Founder, Content creator and travel Designer</p>
+        <p>Passionate about promoting sustainable 
+    tourism and promoting women traveller.</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+<hr>    
+</div>
 
 
 
