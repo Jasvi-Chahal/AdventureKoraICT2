@@ -58,7 +58,7 @@
           <div class="content">
             <p><i class="fas fa-calendar-day"></i> 14 Days</p>
           </div>
-          <a href="Trekking.php"><button type="button" class="btn">Book Now</button></a>
+          <a href="TailorMade.php"><button type="button" class="btn">Book Now</button></a>
         </div>
       </div>
     </div>
@@ -75,7 +75,7 @@
       <div class="content">
         <p><i class="fas fa-calendar-day"></i> 12 Days</p>
       </div>
-        <a href="Trekking.php"><button type="button" class="btn">Book Now</button></a>
+        <a href="TailorMade.php"><button type="button" class="btn">Book Now</button></a>
       </div>
     </div>
     </div>
