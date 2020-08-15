@@ -26,7 +26,7 @@
     <!-- end header -->
  <div class="trekking">
     <div class="container">
-      <img src="images/trekking.jpg" alt="Notebook" style="width:1150px; height:500px">
+      <img src="images/trekking.jpg" alt="TREKKING" style="width:1150px; height:500px">
     <div class="content">
       <h1>TREKKING</h1>
       <p>Home to the highest mountain peak in the world Mount Everest, trekking to this region is nothing short of a pilgrimage.
