@@ -875,6 +875,26 @@ position:absolute;
 .team .button:hover {
   background-color: #555;
 }
+/************CSS for trekking****************/
+    .trekking .container {
+  position: relative;
+  max-width: 1150px;
+  margin: 0 auto;
+}
+
+    .trekking .container img {vertical-align: middle;}
+
+    .trekking .container .content {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: #f1f1f1;
+  width: 100%;
+  padding: 30px;
+  font-weight: bold;
+}
+
 
 /***********CSS for adventure Sports**********/
 .adventure_sports p{
