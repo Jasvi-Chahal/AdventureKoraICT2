@@ -115,10 +115,11 @@ include_once'../db_conn.php';
                     <a class="nav-link" href="ContactUs.php">Contact Us</a>
                 </li>
 				<div class="search-container">
-                   <form action="action_page.php" method="POST">
-                       <input type="text" placeholder="Search" name="search">
-                       <button type="submit" name="submit-search"><i class="fa fa-search"></i></button>
-                    </form>
+        <form action="action_page.php" method="POST">
+                     <input type="text" name="search" placeholder="Search">
+                     <button type="submit" name="submit-search"><i class="fa fa-search"></i></button>
+
+                   </form>
                 </div>
             </ul>
             

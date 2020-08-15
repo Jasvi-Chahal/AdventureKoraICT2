@@ -25,22 +25,32 @@
     ?>
     <!-- end header -->
     <div class="our-story">
-      <h1> Adventure Kora - All articles</h1>
-      
+    <?php
+      if (isset($_POST['submit-search'])) {
+        $search = mysqli_real_escape_string($connection, $_POST['search']);
+        $sql = "SELECT * FROM blogs WHERE Blog_Title LIKE '%$search%' OR Blog_Description LIKE '%$search%'";
+        $result = mysqli_query($connection, $sql);
+        $queryResult = mysqli_num_rows($result);
 
-      <section id="team1">
-        <img src="images\team1.jpg"> 
-        <p> <br/> Experience adventure with mindfulness traveling with mindfulness gives an enriching experience. You start appreciating a culture, a place, and its people from a different light. </p>
+        if($queryResult > 0){
+          while ($row = mysqli_fetch_assoc($result)) {
+            echo "<div> 
+            <h3>".$row['Blog_Id']."</h3>
+            <p>".$row['Blog_Title']."</p>
+            <p>".$row['Blog_Description']."</p>
 
-      </section>
+          </div>";
+          }
 
-      <section id="team2">
-        <img src="images\team2.jpg">
-        <p><br/>Adventure Kora is a local travel company based in Nepal that specializes in small groups, bespoke packages, combining them with the idea of wellness. We believe in creating the best travel experience for our clients, their safety being the main priority. </p>
 
-        
-      </section>
-      
+        }else{
+
+          echo "there are no results matching your search";
+        }
+      }
+
+
+    ?>
     </div>
 
 
