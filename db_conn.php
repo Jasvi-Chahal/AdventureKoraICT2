@@ -16,6 +16,6 @@ $connection = mysqli_connect($dbhost, $dbuser, $dbpass, $dbname);
 // 4. Release returned data
 
 // 5. Close database connection
-mysqli_close($connection);
+//mysqli_close($connection);
 
 ?>
