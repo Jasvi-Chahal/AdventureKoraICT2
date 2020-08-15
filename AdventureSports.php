@@ -32,21 +32,21 @@
           </div><hr>
           <div class="row">
             <h2>#1 Mountain Biking: Adventure Unlimited</h2><br>
-            <img src="images/biking.jpg" ><br>
+            <img src="images/biking.jpg" height="300px" width="700"><br>
             <br>
             <p style="margin-top: 40px; line-height: 1.6; color: #8c8888">Cycling through valleys, from rivers to steep hills and rough dry mountains is fun-filled. You will enjoy picturesque greenery or the majestic mountains in the backdrop. And get chances to witness beautiful flowers, animals or birds along the way. Mountain biking is a much satisfying activity mixing the natural beauty with culture. And, test physical and mental limits to give you a tiring yet refreshing adventure.</p>
           </div>
           <div class="row">
             <h2>#2 Rafting and Kayaking</h2><br>
             <div class="row">
-            <img src="images/rafting.jpg" ><br>
+            <img src="images/rafting.jpg" height="300px" width="700"><br>
             <br>
             <p style="margin-top: 40px; line-height: 1.6; color: #8c8888">Nepal is one of the best destination in the world for White water rafting. Trishuli and Bhotekoshi is the best for white water rafting among the other. Rafting and Kayaking is the adventures and thriller sports outdoor activities in Nepal</p></div>
           </div>
           <div class="row">
             <h2>#3 bungee Jumping</h2><br>
             <div class="row">
-            <img src="images/bungee.jpg" ><br>
+            <img src="images/bungee.jpg" height="300px" width="700"><br>
             <br>
             <p style="margin-top: 40px; line-height: 1.6; color: #8c8888">Bungee Jump might not be an adventure exclusive to Nepal, but Bungee jump in Nepal is like no other!
                 There are only two spots for a bungee jump, the more popular one being the Last resort. The resort rests a few kilometers away from all the city amidst terraced slopes and lush forests. In such location, one gets to enjoy peace and solitude amidst the natural beauty.
@@ -58,7 +58,7 @@
           <div class="row">
             <h2>#4 Paragliding</h2><br>
             <div class="row">
-            <img src="images/paragliding.jpg" ><br>
+            <img src="images/paragliding.jpg" height="300px" width="700"><br>
             <br>
             <p style="margin-top: 40px; line-height: 1.6; color: #8c8888">Ever wondered how it feels to be a bird and then view the earth down. To soar above the highest peaks in the world, beautiful lakes, rivers, and forests are much fun filled.
             If you want to break the monotony of your life, paragliding gives you this out-of-this-world experience. You see the beautiful topography of Nepal while gliding so far above.
