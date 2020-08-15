@@ -896,12 +896,7 @@ position:absolute;
 }
 
 
-/***********CSS for adventure Sports**********/
-.adventure_sports p{
-      line-height: 1.1;
-      color: #8c8888;
 
-}
 /**********CSS for FAQs****************/
      .faqHeader {
         font-size: 27px;
@@ -932,4 +927,23 @@ position:absolute;
         transform: rotate(90deg);
         color: #454444;
     }
->>>>>>> 2d79c05f7ca7e1822f30822a5a3cce9f4f0fc4d2
+/****************CSS for tour************/
+
+    .tour .container {
+  position: relative;
+  max-width: 1150px;
+  margin: 0 auto;
+}
+
+    .tour .container img {vertical-align: middle;}
+
+    .tour .container .content {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: #f1f1f1;
+  width: 100%;
+  padding: 30px;
+  font-weight: bold;
+}
