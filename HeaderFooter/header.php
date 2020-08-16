@@ -106,7 +106,7 @@ include_once'../db_conn.php';
 				<li class="nav-item dropdown">
 					<a class="nav-link dropdown-toggle" href="EnquiryTailorMade.php" id="navbardrop" data-toggle="dropdown"> Plan A Trip </a>
 					<div class="dropdown-menu">
-						<a href="TailorMade.php">Book Now</a>
+						<a href="package.php">Book Now</a>
 						<a href="#">Join Pool</a> </div>
                 </li>
 	            <li class="nav-item dropdown">
