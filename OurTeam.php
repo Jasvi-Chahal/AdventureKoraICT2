@@ -45,19 +45,19 @@
         </div>
         </div>
 
-  <div class="col-sm-4">
+        <div class="col-sm-4">
     <div class="card">
       <img src="images/team2.jpg" alt="Nischal" style="width:100%">
       <div class="container">
         <h2>Nischal</h2>
-        <p class="title">Co-Founder and Digital marketting specialist</p>
-        <p>He build team with the aim of connecting people
-    around the world with Himalayas for the unique experience
-    that it has offer.<br></p>
+        <p class="title">Co-Founder & Digital marketing specialist</p>
+        <p>His aim is connecting people
+    around the world with Himalayas for the unique experience.<br></p>
         <p><button class="button">Contact</button></p>
       </div>
     </div>
   </div>
+  
   
   <div class="col-sm-4">
     <div class="card">
