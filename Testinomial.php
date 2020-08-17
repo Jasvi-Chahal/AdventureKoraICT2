@@ -33,45 +33,57 @@
     
 
     <div class="our-story">
-      <h1> Testimonials</h1><br><br>
+        <div class="container">
+           <h1> Testimonials</h1><br><br>
+              <div class="row">
+                  <div class="col">
+                      
+                          <p>Nishant Pangeni <br>
+                          Greta service, would love to recommend their service who are looking for an adventure trip in Nepal. Looking forward for my next trip. Keep up the good work <br>
+                          <span class="fa fa-star checked"></span>
+                          <span class="fa fa-star checked"></span>
+                          <span class="fa fa-star checked"></span>
+                          <span class="fa fa-star checked"></span>
+                          <span class="fa fa-star checked"></span></p><br><br>
+                   </div>
+                   <div class="col">
+                        <p>Santos Poudel
+                        <br>
+                        Great experience you could ever imagined comes with these people <br>
+                        <span class="fa fa-star checked"></span>
+                        <span class="fa fa-star checked"></span>
+                        <span class="fa fa-star checked"></span>
+                        <span class="fa fa-star checked"></span>
+                        <span class="fa fa-star checked"></span></p><br><br></p>
+                  </div>
+            </div>          
+                    
+                <div class="row">
+                  <div class="col">
+                      
+                          <p>Emily hui<br>
+                            Great guide and have a good skill of photo shooting! Thanks (Abhi) that bring us around and get some awesome photos! Wish to visit Nepal soon! 😘 Yolo! Adventure spirits never die! Felt great! <br>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span></p><br><br>
 
-      <section id="our-story2">
-        <p>Nishant Pangeni <br>
-Greta service, would love to recommend their service who are looking for an adventure trip in Nepal. Looking forward for my next trip. Keep up the good work <br>
-<span class="fa fa-star checked"></span>
-<span class="fa fa-star checked"></span>
-<span class="fa fa-star checked"></span>
-<span class="fa fa-star checked"></span>
-<span class="fa fa-star checked"></span></p><br><br>
+                   </div>
+                   <div class="col">
+                        <p>Noa Affolter
+                        <br>
+                        Super nice guys (Abhi and Raj) whit alot of knowleg about the mountains, are abel to help you if something goes wrong. I would chose them again.<br>
+                        <span class="fa fa-star checked"></span>
+                        <span class="fa fa-star checked"></span>
+                        <span class="fa fa-star checked"></span>
+                        <span class="fa fa-star checked"></span>
+                        <span class="fa fa-star checked"></span></p><br><br></p>
+                  </div>
+            </div>             
 
-    <p>Santos Poudel
-<br>
-Great experience you could ever imagined comes with these people <br>
-<span class="fa fa-star checked"></span>
-<span class="fa fa-star checked"></span>
-<span class="fa fa-star checked"></span>
-<span class="fa fa-star checked"></span>
-<span class="fa fa-star checked"></span></p><br><br></p>
-</section>
-
-<section id="our-story2">
-        <p>Emily hui<br>
-Great guide and have a good skill of photo shooting! Thanks (Abhi) that bring us around and get some awesome photos! Wish to visit Nepal soon! 😘 Yolo! Adventure spirits never die! Felt great! <br>
-<span class="fa fa-star checked"></span>
-<span class="fa fa-star checked"></span>
-<span class="fa fa-star checked"></span>
-<span class="fa fa-star checked"></span>
-<span class="fa fa-star checked"></span></p><br><br>
-
-    <p>Noa Affolter
-<br>
-Super nice guys (Abhi and Raj) whit alot of knowleg about the mountains, are abel to help you if something goes wrong. I would chose them again.<br>
-<span class="fa fa-star checked"></span>
-<span class="fa fa-star checked"></span>
-<span class="fa fa-star checked"></span>
-<span class="fa fa-star checked"></span>
-<span class="fa fa-star checked"></span></p><br><br></p>
-</section>
+      </div>
+    </div>
       
     </div>
 
