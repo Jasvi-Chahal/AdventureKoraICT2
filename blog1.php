@@ -24,48 +24,43 @@
     include('HeaderFooter/header.php'); 
     ?>
     <!-- end header -->
-    <div class="our-story">
-      <h1> Adventure Kora - Our Story</h1>
+    <div class="faqHeader" style="text-align: center;">
+      <h1> Trekking in Mount Everest</h1><br>
+        <img src="images\everest.jpg" alt="Mt Everest" height="400px" width="800px" align="center">
+        <br><br>
+        </div>
+  <div class="blogs">
+  <p>      
 
-      <section id="our-story1">
-        <img src="images\story.jpg">
+Well, one of the most famous natural icons of Nepal is Mount Everest which is also one of the most adventurous one. Nepal is known one of the best countries for trekking, not just the Everest but other peaks too. Every year thousands of trekkers and climbers come to Nepal to enjoy this serene beauty and test their endurance. The best part is the government of Nepal is continuously opening new trekking areas that were restricted earlier, means you can try a new route every time you visit Nepal. If you are up for a challenging adventure, then try Everest Base Camp Trek that involves (number of days) of trekking along the rocky trails and snow-capped peaks. You will need both mental and physical ability to experience the feeling of conquering this King of Mountains. <br><br>
 
-      </section>
+<i>Starting point: Well commonly this trips starts from the town of Lukla, but there are many other options, depending on the tour and difficulty you want to endure for this journey.</i> <br><br><br>
 
-      <section id="our-story2">
-        <p>ATrekking Mount Everest 
+<b>Bungee Jumping & Canyon Swing</b> <br><br>
 
-Well, one of the most famous natural icons of Nepal is Mount Everest which is also one of the most adventurous one. Nepal is known one of the best countries for trekking, not just the Everest but other peaks too. Every year thousands of trekkers and climbers come to Nepal to enjoy this serene beauty and test their endurance. The best part is the government of Nepal is continuously opening new trekking areas that were restricted earlier, means you can try a new route every time you visit Nepal. If you are up for a challenging adventure, then try Everest Base Camp Trek that involves (number of days) of trekking along the rocky trails and snow-capped peaks. You will need both mental and physical ability to experience the feeling of conquering this King of Mountains. 
+Nepal has been labeled as one of the best sites to experience the bungee jump. You can experience this thrilling jump at around 160 meters over Bhotekhosi, one of the fastest flowing rivers in Nepal. Follow this up with the canyon swing of 240-meter free fall at the speed of 150 meters per hour. Currently, there are two bungy spots in Nepal one at Pokhara and other at Bhotekoshi. <br><br>
 
-Starting point: Well commonly this trips starts from the town of Lukla, but there are many other options, depending on the tour and difficulty you want to endure for this journey. 
+<i>Starting point: Well you can contact your tour agency to for further information as they provide pick and drop service as well.</i> <br><br><br>
+<b>Ultra Light Flying</b> <br><br>
 
-Bungee Jumping & Canyon Swing 
+This activity involves microlight aircraft that takes you around Nepal’s mountains letting you see the spectacular view of the mountain ranges with an extra thrill. It is an exciting 90 minutes experience where you can enjoy the natural beauty of Mountains that will always be in your memory train. <br><br>
 
-Nepal has been labeled as one of the best sites to experience the bungee jump. You can experience this thrilling jump at around 160 meters over Bhotekhosi, one of the fastest flowing rivers in Nepal. Follow this up with the canyon swing of 240-meter free fall at the speed of 150 meters per hour. Currently, there are two bungy spots in Nepal one at Pokhara and other at Bhotekoshi.
+<i>Starting point: This service operates only in Pokhara airport. You can contact your tour guide for booking.</i> <br><br><br>
 
-Starting point: Well you can contact your tour agency to for further information as they provide pick and drop service as well. 
+<b>Jungle Safari</b> <br><br>
 
-Ultra Light Flying 
+Apart from the breathtaking mountains, Nepal is also famous for its luscious tropical Jungle situated in the southern part of the country, home to various exotic animals.  One of the favorite activity in Nepal preferred by the wild lovers is Jungle Safari. During this activity, you can observe the wild animals in their natural habitat. If you are a lover of wilderness Nepal is a place to be. Nepal has multiple national parks which have various wild and exotic animals where you have multiple options of Safari to choose from. <br><br>
+<i>Start point: You can always start your safari two well-known national parks of Nepal which are Chitwan National Park and Bardiya National Park. If you want to get the best experience out of the Safari tours, it is best advised to get it from the best touring company.</i> <br><br><br>
 
-This activity involves microlight aircraft that takes you around Nepal’s mountains letting you see the spectacular view of the mountain ranges with an extra thrill. It is an exciting 90 minutes experience where you can enjoy the natural beauty of Mountains that will always be in your memory train. 
+<b>Zip flyer</b> <br><br>
 
-Starting point: This service operates only in Pokhara airport. You can contact your tour guide for booking. 
+Zip line in Nepal is one of the tallest longest and steepest one in the whole world. It has the length of 1.8 km with the incline of  56 degrees and a vertical drop of 600 meters. Renowned for being one of the extreme zip lines you can feel the adrenaline rush when you go forward to the ground and experience the beautiful scenery around you. <br><br>
 
-Jungle Safari 
-
-Apart from the breathtaking mountains, Nepal is also famous for its luscious tropical Jungle situated in the southern part of the country, home to various exotic animals.  One of the favorite activity in Nepal preferred by the wild lovers is Jungle Safari. During this activity, you can observe the wild animals in their natural habitat. If you are a lover of wilderness Nepal is a place to be. Nepal has multiple national parks which have various wild and exotic animals where you have multiple options of Safari to choose from. 
-Start point: You can always start your safari two well-known national parks of Nepal which are Chitwan National Park and Bardiya National Park. If you want to get the best experience out of the Safari tours, it is best advised to get it from the best touring company. 
-
-Zip flyer 
-
-Zip line in Nepal is one of the tallest longest and steepest one in the whole world. It has the length of 1.8 km with the incline of  56 degrees and a vertical drop of 600 meters. Renowned for being one of the extreme zip lines you can feel the adrenaline rush when you go forward to the ground and experience the beautiful scenery around you. 
-
-Where to do it: Zip line experience is available in Pokhara.  
+<i>Where to do it: Zip line experience is available in Pokhara.</i>  <br><br>
 </p>
+</div>
         
-      </section>
       
-    </div>
 
 
 
