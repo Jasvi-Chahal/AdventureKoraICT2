@@ -57,7 +57,24 @@
           <div class="content">
             <p><i class="fas fa-calendar-day"></i> 14 Days</p>
           </div>
-          <a href="Trekking.php"><button type="button" class="btn">Book Now</button></a>
+          <div class="row">
+    <div class="col">
+  <a href="Trekking.php"><button type="button" class="btn">Book Now</button></a>
+      </div>
+    <div class="col">
+      <div class="share-button sharer" style="display: block;">
+    <button type="button" class="btn btn-success share-btn">Share</button>
+    <div class="social top center networks-5 ">
+        <!-- Facebook Share Button -->
+        <a class="fbtn share facebook" href="https://www.facebook.com/sharer/sharer.php?u=url"><i class="fa fa-facebook-square"></i></a> 
+        <!-- Twitter Share Button -->
+        <a class="fbtn share twitter" href="https://twitter.com/intent/tweet?text=title&amp;url=url&amp;via=creativedevs"><i class="fa fa-twitter"></i></a> 
+       <!-- LinkedIn Share Button -->
+        <a class="fbtn share linkedin" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=url&amp;title=title&amp;source=url/"><i class="fa fa-linkedin"></i></a>
+    </div>
+</div>
+    </div>
+   </div>
         </div>
       </div>
     </div>
@@ -104,7 +121,18 @@
 if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';
 fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
 </script>
+ <script>
+ $( document ).ready(function() {
+     //custom button for homepage
+     $( ".share-btn" ).click(function(e) {
+          $('.networks-5').not($(this).next( ".networks-5" )).each(function(){
+             $(this).removeClass("active");
+         });
+         $(this).next( ".networks-5" ).toggleClass( "active" );
+    });   
+});
  
+ </script>
  
             <!-- Footer Start -->
 	<?php 
