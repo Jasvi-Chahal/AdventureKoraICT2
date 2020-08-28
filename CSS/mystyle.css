@@ -800,6 +800,15 @@
 
     }
 
+    .blogs{
+        
+        width: 80%;
+        text-align: justify;
+        margin: auto;
+        font-size: 20px;
+
+    }
+
     #our-story1{
         float: left;
         padding: 20px;

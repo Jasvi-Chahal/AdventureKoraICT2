@@ -305,9 +305,9 @@
 				<div class="single-blog">
 					<p class="blog-meta"> <span>May 25,2018</span></p>
 					<img src="./images/Blog1.jpg" alt="Post 1" >
-					<h2><a href="#">Adventures you should embark upon in Nepal </a></h2>
+					<h2><a href="blog1.php">Adventures you should embark upon in Nepal </a></h2>
 					<p class = "blog-text">Trekking Mount Everest<br>Well, one of the most famous natural icons of Nepal is Mount Everest which is also one of the most adventurous one. </p>
-					<p><a href="#" class ="read-more-button">Read More</a>
+					<p><a href="blog1.php" class ="read-more-button">Read More</a>
 				<span><i class="fa fa-thumbs-o-up"></i>7 People like, <i class ="fa fa-comments-o"></i>3..</span>
 				</p>
 				</div>
@@ -317,9 +317,9 @@
 			<div class="single-blog">
 					<p class="blog-meta"> <span>May 25,2018</span></p>
 					<img src="./images/Blog2.jpg" alt="Post 1" >
-					<h2><a href="#">Why you can’ miss the Nepalese Cuisine?</a></h2>
+					<h2><a href="blog2.php">Why you can’ miss the Nepalese Cuisine?</a></h2>
 					<p class = "blog-text">Nepalese Cuisine?<br>Buckle up, as we take you on a joyous ride of the most exotic delicacies that are bound to leave you drooling.</br><br> </p>
-					<p><a href="#" class ="read-more-button">Read More</a>
+					<p><a href="blog2.php" class ="read-more-button">Read More</a>
 				<span><i class="fa fa-thumbs-o-up"></i>7 People like, <i class ="fa fa-comments-o"></i>3..</span>
 				</div>
 			</div>
@@ -327,9 +327,9 @@
 			<div class="single-blog">
 					<p class="blog-meta"> <span>May 25,2018</span></p>
 					<img src="./images/Blog3.jpg" alt="Post 1" >
-					<h2><a href="#">Things you need to know before trekking to ABC_ASJ_Final </a></h2>
+					<h2><a href="blog3.php">Things you need to know before trekking to ABC_ASJ_Final </a></h2>
 					<p class = "blog-text">Annapurna Base Camp is considered to be a moderate trekking route. Compared to other trekking routes in the Himalayas, ABC trek has a lot of accommodation</p>
-					<p><a href="#" class ="read-more-button">Read More</a>
+					<p><a href="blog3.php" class ="read-more-button">Read More</a>
 				<span><i class="fa fa-thumbs-o-up"></i>7 People like, <i class ="fa fa-comments-o"></i>3..</span>
 				</p>
 				</div>
